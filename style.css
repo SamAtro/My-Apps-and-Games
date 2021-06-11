@@ -1,0 +1,12 @@
+.line{
+    width:120px;
+    height:6px;
+    background-color:black;
+    margin:8px auto;
+}
+img{
+    transition:transform .2s;
+}
+img:hover{
+    transform:scale(0.9);
+}
